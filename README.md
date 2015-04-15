@@ -1,2 +1,3 @@
-# raspberry-server
-Repository for the nodejs server in the raspberry
+# Rails server
+
+Servidor web de la aplicacion de rockolapp en ruby on rails
